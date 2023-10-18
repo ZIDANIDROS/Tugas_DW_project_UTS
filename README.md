@@ -5,7 +5,7 @@ Poseidon Reprisal - Kekuatan Alam Dalam Gaya
 Referensi :  https://shopee.co.id/shop/117301215
  
 Deskripsi Konsep Web:
-Poseidon Reprisal adalah merek pakaian yang menggabungkan estetika alam dengan kekuatan mitologi Yunani. Kami menciptakan pakaian yang unik dan berkualitas tinggi dengan desain yang terinspirasi oleh elemen alam dan legenda dewa laut Poseidon. Konsep web kami menggambarkan visi kami untuk menjaga dan menghormati alam, sambil merayakan kekuatan alam dan budaya Yunani.
+Poseidon Reprisal merupakan merek pakaian yang menggabungkan estetika alam dengan kekuatan mitologi Yunani. Kami menciptakan pakaian yang unik dan berkualitas tinggi dengan desain yang terinspirasi oleh elemen alam dan legenda dewa laut Poseidon. Konsep web kami menggambarkan visi kami untuk menjaga dan menghormati alam, sambil merayakan kekuatan alam dan budaya Yunani.
 
 # My Team
 Husein Zidan          	- 4522210012<br>
@@ -17,7 +17,7 @@ Yesi Agustin           - 4522210023
 # Struktur Website
 Navigasi Utama: Home, Contact, Catalog<br>
 1. Home Menampilkan gambar utama koleksi terbaru, pengenalan singkat tentang merek, dan tautan ke produk-produk terbaru.<br>
-2. Section Koleksi          : Mengelompokkan produk berdasarkan tema tertentu seperti "Poseidon's Waves" atau "Olympian Classics". Pengguna dapat menjelajahi koleksi ini untuk menemukan produk yang mereka sukai.<br>
+2. Section Koleksi          : Section merupakan bagian atau seksi. pada section koleksi dapat mengelompokkan produk berdasarkan tema tertentu seperti "Poseidon's Waves" atau "Olympian Classics". Pengguna dapat menjelajahi koleksi ini untuk menemukan produk yang mereka sukai.<br>
 3. Section Tentang Kami     : Menyediakan informasi tentang sejarah dan filosofi merek, serta tim di balik Poseidon Reprisal.<br>
 4. Section Blog             : Bagian ini berisi artikel tentang mitologi Yunani, keberlanjutan, dan berbagai topik terkait alam dan kekuatan.<br>
 5. Section  Catalog         : Berisi gambar dan informasi mengenai produk <br>
