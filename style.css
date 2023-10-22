@@ -287,10 +287,9 @@ button {
 .allcatalog {
   margin: 0 auto;
   width: 1519px;
-  height: 100vh; /* Untuk mengisi seluruh ketinggian layar */
 }
 
-.yes {
+.div-allcatalog {
   text-align: center;
 }
 
@@ -334,9 +333,54 @@ button {
 }
 
 .kolom {
+  width: 50%;
+  margin: 10px;
   display: flex;
-  flex: 1;
+  flex-direction: column;
   justify-content: space-between;
   padding: 10px;
-  border: 1px solid #000;
+  align-items: center;
+}
+
+.allcatalog-kolom-kolom {
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  margin: 5px 5px 0px 0px;
+  display: flex;
+}
+
+.listAllCatalog {
+  width: 200px;
+  height: 200px;
+  margin-right: 10px;
+}
+
+.text-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.bt-allcatalog-kolom {
+  width: 100px;
+  height: 30px;
+  margin-top: 10px;
+  border-radius: 10px;
+  border: none;
+}
+
+.kolom-Motif {
+  margin-top: 10%;
+  width: 80%;
+  height: 80%;
+  position: relative;
+  overflow: hidden;
+}
+
+.kolom-Motif img {
+  width: 100%;
+  height: 100%;
+  clip: rect(0px, 580px, 330px, 0px);
+  position: absolute;
+  border-radius: 30px;
 }
