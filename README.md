@@ -16,6 +16,7 @@ Yesi Agustin           - 4522210023 <br><br>
 
 # Struktur Website
 Navigasi Utama: Home, Contact, Catalog<br>
+
 1. Home Menampilkan gambar utama koleksi terbaru, pengenalan singkat tentang merek, dan tautan ke produk-produk terbaru.<br> <br>
 2. Section Koleksi          : Mengelompokkan produk berdasarkan tema tertentu seperti "Poseidon's Waves" atau "Olympian Classics". Pengguna dapat menjelajahi koleksi ini untuk menemukan produk yang mereka sukai.<br> <br>
 3. Section Tentang Kami     : Menyediakan informasi tentang sejarah dan filosofi merek, serta tim di balik Poseidon Reprisal.<br> <br>
@@ -24,6 +25,7 @@ Navigasi Utama: Home, Contact, Catalog<br>
 6. Section Review/Penilaian : Pengguna dapat mengomentari serta memberikan nilai terhadap produk yang telah dibeli <br> <br>
 7. Section Laman Pembayaran : Pembeli dapat akses ke laman pembayaran jika ingin melakukan pembelian/ Transaksi<br> <br>
 8. Footer yang berisi Kontak, Informasi Web, Sosial Media Web : Memberikan informasi mengenai web, pelanggan dapat  menghubungi kami melalui kontak/Sosial media yang telah tersedia <br> <br>
+
 
 # Fitur Khusus
 1. Rekomendasi Produk     : Menampilkan gambar utama koleksi terbaru, pengenalan singkat tentang merek, dan tautan ke produk-produk terbaru. <br> <br>
