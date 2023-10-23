@@ -32,7 +32,7 @@ Navigasi Utama: Home, Contact, Catalog<br>
 3. Sosial Media           : Tautan ke akun media sosial kami sehingga pengguna dapat mengikuti kami dan berinteraksi dengan konten kami di platform lain. <br><br>
 4.  Pencarian             : Pengguna dapat mencari produk tertentu berdasarkan kata kunci atau kategori.<br><br>
 5. Fitur Penilaian Review : Pembeli dapat mengomentari dan memberikan nilai terhadap produk yang dibeli.<br><br>
-6. Laman Pembayaran       : Pembeli dapat akses ke laman pembayaran jika ingin melakukan pembelian/ Transaksi<br><br>
+6. Catalog   : Menampilkan seluruh produk kami yang tersedia.<br><br>
  
  
 # Design
@@ -66,4 +66,4 @@ Navigasi Utama: Home, Contact, Catalog<br>
 
 
 # Design Figma
-- Figma : https://www.figma.com/file/9vxrU6vDlCDt8PsD2P2dSk/DESAIN-WEB-E-COMMERCE?type=design&node-id=0-1&mode=design
+- [Klik Untuk Dapat Melihat Design Figma][https://www.figma.com/file/9vxrU6vDlCDt8PsD2P2dSk/DESAIN-WEB-E-COMMERCE?type=design&node-id=0-1&mode=design
