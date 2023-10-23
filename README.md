@@ -52,7 +52,7 @@ index.html<br>
 <h2>catalog.html</h2>
 1. Home                     : Menampilkan Navbar, menampiilkan fitur search untuk pencarian produk, menampilkan laman utama pada website. <br> <br>
 2. Workshirt                : Menampilan product berupa kemeja yang biasa dipakai oleh para pekerja<br><br>
-3. T-Shirt                  : Menampilkan product berupa kaos kekinian
+3. T-Shirt                  : Menampilkan product berupa T-Shirt yang sangat cocok pemakaiannya bagi pengguna sehari hari
 4. Crewneck                 : Menampilkan product berupa pakaian lengan panjang musim dingin sehari hari yang nyaman dan membuat penampilan lebih stylish
 5. Footer yang berisi Kontak, Informasi Web, Sosial Media Web, Article, Property : Memberikan informasi mengenai web, pelanggan dapat  menghubungi kami melalui kontak/Sosial media yang telah tersedia <br> <br>
 
