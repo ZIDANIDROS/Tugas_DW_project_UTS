@@ -30,7 +30,16 @@ Copyright 2023<br>
 [Klik Untuk Melihat Referensi Website](https://shopee.co.id/shop/117301215)
 
 # Struktur Website
-Navigasi Utama: Home, Contact, Catalog<br>
+Navigasi Utama:
+index.html<br>
+- about us
+- Contact
+- Catalog
+index.html<br>
+- Workshirt
+- T-shirt
+- Crewneck
+- Home
 
 1. Home : Menampilkan Navbar, menampiilkan fitur search untuk pencarian produk, menampilkan laman utama pada website. <br> <br>
 2. Section Recomendation : Menampilakan dan mengelompokan produk-produk yang di rekomendasikan<br><br>
