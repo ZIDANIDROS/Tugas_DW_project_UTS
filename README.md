@@ -18,7 +18,7 @@ Yesi Agustin           - 4522210023 <br><br>
 Navigasi Utama: Home, Contact, Catalog<br>
 
 1. Home : Menampilkan Navbar, menampiilkan fitur search untuk pencarian produk, menampilkan laman utama pada website. <br> <br>
-2. Section Recomendation : Menampilakan dan mengelompokan produk-produk yang di rekomendasikan
+2. Section Recomendation : Menampilakan dan mengelompokan produk-produk yang di rekomendasikan<br><br>
 3. Section Blog             : Bagian ini berisi artikel tentang mitologi Yunani yang dikombinasikan dengan design produk yang tersedia.<br> <br> 
 4. Section  Catalog         : Berisi gambar dan informasi mengenai produk <br> <br>
 5. Section Review/Penilaian : Pengguna dapat mengomentari serta memberikan nilai terhadap produk yang telah dibeli <br> <br>
