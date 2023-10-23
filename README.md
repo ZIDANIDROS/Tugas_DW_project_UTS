@@ -56,6 +56,7 @@ index.html<br>
 4. Crewneck
 5. Footer yang berisi Kontak, Informasi Web, Sosial Media Web, Article, Property : Memberikan informasi mengenai web, pelanggan dapat  menghubungi kami melalui kontak/Sosial media yang telah tersedia <br> <br>
 
+
 # Fitur Khusus
 1. Rekomendasi Produk     : Menampilkan gambar utama koleksi terbaru, pengenalan singkat tentang merek, dan tautan ke produk-produk terbaru. <br> <br>
 2. Catalog                : Menampilkan informasi mengenai gambar, nama dan harga produk <br><br>
