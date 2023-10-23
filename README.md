@@ -54,7 +54,8 @@ index.html<br>
 2. Workshirt                : Menampilan product berupa kemeja yang biasa dipakai oleh para pekerja<br><br>
 3. T-Shirt                  : Menampilkan product berupa 
 4. Crewneck
-5. Footer yang berisi Kontak, Informasi Web, Sosial Media Web, Article, Property : Memberikan informasi mengenai web, pelanggan dapat  menghubungi kami melalui kontak/Sosial media yang telah tersedia <br> <br>
+5. Footer yang berisi Kontak, Informasi Web, Sosial Media Web, Article, Property : Memberikan informasi mengenai web, pelanggan dapat  menghubungi kami melalui kontak/Sosial media yang telah tersedia <br> <br>
+
 
 # Fitur Khusus
 1. Rekomendasi Produk     : Menampilkan gambar utama koleksi terbaru, pengenalan singkat tentang merek, dan tautan ke produk-produk terbaru. <br> <br>
