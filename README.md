@@ -17,14 +17,13 @@ Yesi Agustin           - 4522210023 <br><br>
 # Struktur Website
 Navigasi Utama: Home, Contact, Catalog<br>
 
-1. Home Menampilkan gambar utama koleksi terbaru, pengenalan singkat tentang merek, dan tautan ke produk-produk terbaru.<br> <br>
-2. Section Koleksi          : Mengelompokkan produk berdasarkan tema tertentu seperti "Poseidon's Waves" atau "Olympian Classics". Pengguna dapat menjelajahi koleksi ini untuk menemukan produk yang mereka sukai.<br> <br>
-3. Section Tentang Kami     : Menyediakan informasi tentang sejarah dan filosofi merek, serta tim di balik Poseidon Reprisal.<br> <br>
-4. Section Blog             : Bagian ini berisi artikel tentang mitologi Yunani, keberlanjutan, dan berbagai topik terkait alam dan kekuatan.<br> <br> 
-5. Section  Catalog         : Berisi gambar dan informasi mengenai produk <br> <br>
-6. Section Review/Penilaian : Pengguna dapat mengomentari serta memberikan nilai terhadap produk yang telah dibeli <br> <br>
-7. Section Laman Pembayaran : Pembeli dapat akses ke laman pembayaran jika ingin melakukan pembelian/ Transaksi<br> <br>
-8. Footer yang berisi Kontak, Informasi Web, Sosial Media Web : Memberikan informasi mengenai web, pelanggan dapat  menghubungi kami melalui kontak/Sosial media yang telah tersedia <br> <br>
+1. Home : Menampilkan Navbar, menampiilkan fitur search untuk pencarian produk, menampilkan laman utama pada website. <br> <br>
+2. Section Recomendation : Menampilakan dan mengelompokan produk-produk yang di rekomendasikan
+3. Section Blog             : Bagian ini berisi artikel tentang mitologi Yunani yang dikombinasikan dengan design produk yang tersedia.<br> <br> 
+4. Section  Catalog         : Berisi gambar dan informasi mengenai produk <br> <br>
+5. Section Review/Penilaian : Pengguna dapat mengomentari serta memberikan nilai terhadap produk yang telah dibeli <br> <br>
+6. Section Laman Pembayaran : Pembeli dapat akses ke laman pembayaran jika ingin melakukan pembelian/ Transaksi<br> <br>
+7. Footer yang berisi Kontak, Informasi Web, Sosial Media Web, Article, Property : Memberikan informasi mengenai web, pelanggan dapat  menghubungi kami melalui kontak/Sosial media yang telah tersedia <br> <br>
 
 
 # Fitur Khusus
