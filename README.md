@@ -1,18 +1,24 @@
-# Product Profile
-
-- Judul Website:
-Poseidon Reprisal - Kekuatan Alam Dalam Gaya <br>
-Referensi : https://shopee.co.id/shop/117301215
- 
-- Deskripsi Konsep Web:
-Poseidon Reprisal adalah merek pakaian yang menggabungkan estetika alam dengan kekuatan mitologi Yunani. Kami menciptakan pakaian yang unik dan berkualitas tinggi dengan desain yang terinspirasi oleh elemen alam dan legenda dewa laut Poseidon. Konsep web kami menggambarkan visi kami untuk menjaga dan menghormati alam, sambil merayakan kekuatan alam dan budaya Yunani.
-
 # My Team
 Husein Zidan          	- 4522210012 <br><br>
 Zahra Jane Arnecia 	   - 4522210028 <br><br>
 Raihan Alfisa Saugi	   - 4522210037 <br><br>
 Lutfiah Rizka S       	- 4522210019 <br><br>
 Yesi Agustin           - 4522210023 <br><br>
+
+
+
+# Product Profile
+
+- Judul Website:
+Poseidon Reprisal - Kekuatan Alam Dalam Gaya <br>
+Referensi : https://shopee.co.id/shop/117301215
+
+- Deskripsi Konsep Web:
+Poseidon Reprisal adalah merek pakaian yang menggabungkan estetika alam dengan kekuatan mitologi Yunani. Kami menciptakan pakaian yang unik dan berkualitas tinggi dengan desain yang terinspirasi oleh elemen alam dan legenda dewa laut Poseidon. Konsep web kami menggambarkan visi kami untuk menjaga dan menghormati alam, sambil merayakan kekuatan alam dan budaya Yunani.
+
+
+#Inspirasi
+
 
 # Struktur Website
 Navigasi Utama: Home, Contact, Catalog<br>
