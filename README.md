@@ -66,4 +66,4 @@ Navigasi Utama: Home, Contact, Catalog<br>
 
 
 # Design Figma
-- [Klik Untuk Dapat Melihat Design Figma] https://www.figma.com/file/9vxrU6vDlCDt8PsD2P2dSk/DESAIN-WEB-E-COMMERCE?type=design&node-id=0-1&mode=design
+- [Klik Untuk Dapat Melihat Design Figma](https://www.figma.com/file/9vxrU6vDlCDt8PsD2P2dSk/DESAIN-WEB-E-COMMERCE?type=design&node-id=0-1&mode=design)
