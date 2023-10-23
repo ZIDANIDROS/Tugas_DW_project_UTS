@@ -37,7 +37,7 @@ index.html<br>
 - Catalog
 index.html<br>
 - Workshirt
-- T-shirt
+- T-Shirt
 - Crewneck
 - Home
 
