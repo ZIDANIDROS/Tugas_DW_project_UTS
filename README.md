@@ -18,7 +18,7 @@ Yesi Agustin           - 4522210023 <br><br>
 Navigasi Utama: Home, Contact, Catalog<br>
 
 1. Home : Menampilkan Navbar, menampiilkan fitur search untuk pencarian produk, menampilkan laman utama pada website. <br> <br>
-2. Section Recomendation : Menampilakan dan mengelompokan produk-produk yang di rekomendasikan
+2. Section Recomendation : Menampilakan dan mengelompokan produk-produk yang di rekomendasikan<br><br>
 3. Section Blog             : Bagian ini berisi artikel tentang mitologi Yunani yang dikombinasikan dengan design produk yang tersedia.<br> <br> 
 4. Section  Catalog         : Berisi gambar dan informasi mengenai produk <br> <br>
 5. Section Review/Penilaian : Pengguna dapat mengomentari serta memberikan nilai terhadap produk yang telah dibeli <br> <br>
@@ -37,6 +37,9 @@ Navigasi Utama: Home, Contact, Catalog<br>
  
 # Design
 - Desain situs web ini akan mencerminkan estetika alam dan mitologi Yunani, dengan penggunaan palet warna yang terinspirasi oleh lautan dan elemen alam, serta grafis dan gambar yang menampilkan desain motif alam dan unsur-unsur mitologi Yunani. Hal ini akan memberikan pengalaman yang mendalam dan berarti kepada pengunjung situs web yang ingin berhubungan dengan merek Poseidon Reprisal dan produk-produknya.<br><br>
+- Detail Design : <br><br>
+ 
+
 - Font     :  Lexend<br><br>
 - Tema     : Portfolio UMKM<br><br>
 - Nama Web :  Nodiessop.com<br><br>
