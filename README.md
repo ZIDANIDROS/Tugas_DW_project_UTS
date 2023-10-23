@@ -26,7 +26,7 @@ Target pasar utama Poseidon Reprisal adalah anak muda, pecinta budaya pop, dan o
 
 Dalam koleksi-koleksi eksklusifnya, Poseidon Reprisal menawarkan pilihan pakaian yang mencerminkan estetika yang tangguh dan megah. Setiap produknya dibuat dengan perhatian teliti terhadap detail dan kualitas, menjadikan merek ini sebagai simbol elegansi yang tak terkalahkan. Produk-produknya juga didesain untuk memberikan kenyamanan dan kepercayaan diri kepada setiap individu yang mengenakannya.
 Poseidon Reprisal adalah pilihan sempurna bagi individu yang menginginkan tampilan yang mempesona, penuh daya tarik, dan bermakna. Bergabunglah dalam perjalanan melalui samudra gaya dengan Poseidon Reprisal  , dan temukan keajaiban di setiap koleksinya.
-[project] (C) [date] [copyright owner]<br>
+Copyright 2023<br>
 [Klik Untuk Melihat Referensi Website](https://shopee.co.id/shop/117301215)
 
 # Struktur Website
