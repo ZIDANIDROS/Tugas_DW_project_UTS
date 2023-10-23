@@ -41,14 +41,20 @@ index.html<br>
 - Crewneck
 - Home
 
-1. Home : Menampilkan Navbar, menampiilkan fitur search untuk pencarian produk, menampilkan laman utama pada website. <br> <br>
-2. Section Recomendation : Menampilakan dan mengelompokan produk-produk yang di rekomendasikan<br><br>
+<h2>index.html</h2>
+1. Home                     : Menampilkan Navbar, menampiilkan fitur search untuk pencarian produk, menampilkan laman utama pada website. <br> <br>
+2. Section Recomendation    : Menampilakan dan mengelompokan produk-produk yang di rekomendasikan<br><br>
 3. Section Blog             : Bagian ini berisi artikel tentang mitologi Yunani yang dikombinasikan dengan design produk yang tersedia.<br> <br> 
 4. Section  Catalog         : Berisi gambar dan informasi mengenai produk <br> <br>
 5. Section Review/Penilaian : Pengguna dapat mengomentari serta memberikan nilai terhadap produk yang telah dibeli <br> <br>
-6. Section Laman Pembayaran : Pembeli dapat akses ke laman pembayaran jika ingin melakukan pembelian/ Transaksi<br> <br>
 7. Footer yang berisi Kontak, Informasi Web, Sosial Media Web, Article, Property : Memberikan informasi mengenai web, pelanggan dapat  menghubungi kami melalui kontak/Sosial media yang telah tersedia <br> <br>
 
+<h2>catalog.html</h2>
+1. Home                     : Menampilkan Navbar, menampiilkan fitur search untuk pencarian produk, menampilkan laman utama pada website. <br> <br>
+2. Wor
+3.
+4.
+5. Footer yang berisi Kontak, Informasi Web, Sosial Media Web, Article, Property : Memberikan informasi mengenai web, pelanggan dapat  menghubungi kami melalui kontak/Sosial media yang telah tersedia <br> <br>
 
 # Fitur Khusus
 1. Rekomendasi Produk     : Menampilkan gambar utama koleksi terbaru, pengenalan singkat tentang merek, dan tautan ke produk-produk terbaru. <br> <br>
