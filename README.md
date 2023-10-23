@@ -17,14 +17,13 @@ Yesi Agustin           - 4522210023 <br><br>
 # Struktur Website
 Navigasi Utama: Home, Contact, Catalog<br>
 
-1. Home Menampilkan gambar utama koleksi terbaru, pengenalan singkat tentang merek, dan tautan ke produk-produk terbaru.<br> <br>
-2. Section Koleksi          : Mengelompokkan produk berdasarkan tema tertentu seperti "Poseidon's Waves" atau "Olympian Classics". Pengguna dapat menjelajahi koleksi ini untuk menemukan produk yang mereka sukai.<br> <br>
-3. Section Tentang Kami     : Menyediakan informasi tentang sejarah dan filosofi merek, serta tim di balik Poseidon Reprisal.<br> <br>
-4. Section Blog             : Bagian ini berisi artikel tentang mitologi Yunani, keberlanjutan, dan berbagai topik terkait alam dan kekuatan.<br> <br> 
-5. Section  Catalog         : Berisi gambar dan informasi mengenai produk <br> <br>
-6. Section Review/Penilaian : Pengguna dapat mengomentari serta memberikan nilai terhadap produk yang telah dibeli <br> <br>
-7. Section Laman Pembayaran : Pembeli dapat akses ke laman pembayaran jika ingin melakukan pembelian/ Transaksi<br> <br>
-8. Footer yang berisi Kontak, Informasi Web, Sosial Media Web : Memberikan informasi mengenai web, pelanggan dapat  menghubungi kami melalui kontak/Sosial media yang telah tersedia <br> <br>
+1. Home : Menampilkan Navbar, menampiilkan fitur search untuk pencarian produk, menampilkan laman utama pada website. <br> <br>
+2. Section Recomendation : Menampilakan dan mengelompokan produk-produk yang di rekomendasikan
+3. Section Blog             : Bagian ini berisi artikel tentang mitologi Yunani yang dikombinasikan dengan design produk yang tersedia.<br> <br> 
+4. Section  Catalog         : Berisi gambar dan informasi mengenai produk <br> <br>
+5. Section Review/Penilaian : Pengguna dapat mengomentari serta memberikan nilai terhadap produk yang telah dibeli <br> <br>
+6. Section Laman Pembayaran : Pembeli dapat akses ke laman pembayaran jika ingin melakukan pembelian/ Transaksi<br> <br>
+7. Footer yang berisi Kontak, Informasi Web, Sosial Media Web, Article, Property : Memberikan informasi mengenai web, pelanggan dapat  menghubungi kami melalui kontak/Sosial media yang telah tersedia <br> <br>
 
 
 # Fitur Khusus
@@ -43,20 +42,21 @@ Navigasi Utama: Home, Contact, Catalog<br>
 - Nama Web :  Nodiessop.com<br><br>
 
 # Detail
-- html: Ini adalah elemen root atau akar dari halaman web. <br><br>
-- head: Ini berisi informasi tentang halaman web, seperti judul dan metadata. <br><br>
-- title: Ini menentukan judul yang akan ditampilkan di tab browser. <br><br>
-- body: Ini adalah area utama halaman web yang berisi konten yang akan ditampilkan kepada ---pengguna. <br><br>
-- header: Ini berisi elemen-elemen yang umumnya ditemukan di bagian atas halaman, seperti judul -utama dan menu navigasi. <br><br>
+- html: dapat digunakan untuk menentukan struktur atau kerangka pada halaman web, seperti judul, paragraf, heading dan lainnya. <br><br>
+- css : dapat digunakan untuk mengatur warna, font, dan gaya elemen-elemen lainnya yang telah dibuat di HTML dan akan berpengaruh terhadap tampilan website<br><br>
+- head: dapat berisikan informasi mengenai halaman web. <br><br>
+- title: dapat digunakan untuk menentukan judul yang akan ditampilkan di tab browser. <br><br>
+- body: merupakan  area utama halaman web yang berisi konten yang akan ditampilkan kepada pengguna. <br><br>
+- header: dapat berisi elemen-elemen yang umumnya ditemukan di bagian atas halaman, seperti judul utama dan menu navigasi. <br><br>
 - h1, h2: Ini adalah elemen heading atau judul dengan tingkat kepentingan yang berbeda. <br><br>
-- nav: Ini menandai bagian navigasi situs web. <br><br>
-- ul dan li: Ini digunakan untuk membuat daftar yang tak bernomor (unordered list). <br><br>
-- div: untuk mengelompokkan bagian-bagian berbeda dari halaman web, seperti header, konten, dan footer. <br><br>
-- a: Ini digunakan untuk membuat tautan (link) ke halaman web lain atau ke dalam halaman yang sama. <br><br>
-- p: dalam HTML untuk menampilkan teks paragraf di halaman web. <br><br>
-- img: dalam HTML digunakan untuk menampilkan gambar pada halaman web. <br><br>
-- .home: Ini adalah area utama konten halaman web. <br><br>
-- footer: Ini berisi informasi yang umumnya ditemukan di bagian bawah halaman, seperti informasi , contact . dan sosial media web. <br><br>
+- nav: digunakan untuk menandai bagian navigasi situs web. <br><br>
+- ul dan li: dapat digunakan untuk membuat daftar yang tak bernomor (unordered list). <br><br>
+- div: digunakan untuk mengelompokkan bagian-bagian berbeda dari halaman web, seperti header, konten, dan footer. <br><br>
+- a: digunakan untuk membuat tautan (link) ke halaman web lain atau ke dalam halaman yang sama. <br><br>
+- p: Pada HTML dapat digunakan untuk menampilkan teks paragraf di halaman web. <br><br>
+- img: pada HTML digunakan untuk menampilkan gambar pada halaman web. <br><br>
+- home: merupakan area utama konten halaman web. <br><br>
+- footer: Ini berisi informasi yang umumnya ditemukan di bagian bawah halaman, seperti informasi , contact dan sosial media web. <br><br>
 
 
 # Design Figma
