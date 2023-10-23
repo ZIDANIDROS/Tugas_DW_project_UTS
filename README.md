@@ -10,15 +10,23 @@ Yesi Agustin           - 4522210023 <br><br>
 # Product Profile
 
 - Judul Website:
-Poseidon Reprisal - Kekuatan Alam Dalam Gaya <br>
-[Klik Untuk Melihat Referensi Website](https://shopee.co.id/shop/117301215)
+
+
 
 - Deskripsi Konsep Web:
-Poseidon Reprisal adalah merek pakaian yang menggabungkan estetika alam dengan kekuatan mitologi Yunani. Kami menciptakan pakaian yang unik dan berkualitas tinggi dengan desain yang terinspirasi oleh elemen alam dan legenda dewa laut Poseidon. Konsep web kami menggambarkan visi kami untuk menjaga dan menghormati alam, sambil merayakan kekuatan alam dan budaya Yunani.
+Poseidon Reprisal adalah brand pakaian lokal Indonesia yang terinspirasi dari mitologi Yunani dan budaya pop. Brand ini didirikan pada tahun 2020 oleh dua orang anak muda bernama Aryo dan Dimas.
+
+Poseidon Reprisal dikenal dengan gayanya yang edgy dan maskulin. Produk-produknya sering menampilkan desain yang berani dan unik, serta motif-motif yang terinspirasi dari budaya pop, seperti anime, manga, dan video game.
+
+Target pasar utama Poseidon Reprisal adalah anak muda, pecinta budaya pop, dan orang yang menyukai gaya yang edgy. Brand ini ingin menciptakan produk yang stylish dan edgy, serta memiliki nilai-nilai yang kuat.
 
 
-# Inspirasi
-
+# Inspirasi Kita
+"Nodiessop" adalah sebuah merek yang menggambarkan keanggunan dalam harmoni yang sempurna. Dengan inspirasi dari mitologi Yunani kuno, merek ini menciptakan produk-produk yang memadukan keanggunan dewa laut, Nodiessop.
+Dalam koleksi-koleksi eksklusifnya, Nodiessop   menawarkan pilihan pakaian yang mencerminkan estetika yang tangguh dan megah. Setiap produknya dibuat dengan perhatian teliti terhadap detail dan kualitas, menjadikan merek ini sebagai simbol elegansi yang tak terkalahkan. Produk-produknya juga didesain untuk memberikan kenyamanan dan kepercayaan diri kepada setiap individu yang mengenakannya.
+Nodiessop   adalah pilihan sempurna bagi individu yang menginginkan tampilan yang mempesona, penuh daya tarik, dan bermakna. Bergabunglah dalam perjalanan melalui samudra gaya dengan Nodiessop  , dan temukan keajaiban di setiap koleksinya.
+[project] (C) [date] [copyright owner]<br>
+[Klik Untuk Melihat Referensi Website](https://shopee.co.id/shop/117301215)
 
 # Struktur Website
 Navigasi Utama: Home, Contact, Catalog<br>
@@ -42,7 +50,6 @@ Navigasi Utama: Home, Contact, Catalog<br>
  
  
 # Design
-- Desain situs web ini akan mencerminkan estetika alam dan mitologi Yunani, dengan penggunaan palet warna yang terinspirasi oleh lautan dan elemen alam, serta grafis dan gambar yang menampilkan desain motif alam dan unsur-unsur mitologi Yunani. Hal ini akan memberikan pengalaman yang mendalam dan berarti kepada pengunjung situs web yang ingin berhubungan dengan merek Poseidon Reprisal dan produk-produknya.<br><br>
 - Detail Design :<br><br>
   Pemilihan warna hijau karena agar lebih nyaman dipandang , dan dapat memberikan pengalaman baik bagi pengguna<br><br>
   Pemilihan Font karena dapat terpadukan dengan baik dan solid pada tema warna website <br><br>
