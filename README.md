@@ -37,6 +37,9 @@ Navigasi Utama: Home, Contact, Catalog<br>
  
 # Design
 - Desain situs web ini akan mencerminkan estetika alam dan mitologi Yunani, dengan penggunaan palet warna yang terinspirasi oleh lautan dan elemen alam, serta grafis dan gambar yang menampilkan desain motif alam dan unsur-unsur mitologi Yunani. Hal ini akan memberikan pengalaman yang mendalam dan berarti kepada pengunjung situs web yang ingin berhubungan dengan merek Poseidon Reprisal dan produk-produknya.<br><br>
+- Detail Design : <br><br>
+ 
+
 - Font     :  Lexend<br><br>
 - Tema     : Portfolio UMKM<br><br>
 - Nama Web :  Nodiessop.com<br><br>
