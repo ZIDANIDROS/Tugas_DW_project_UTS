@@ -37,7 +37,10 @@ Navigasi Utama: Home, Contact, Catalog<br>
  
 # Design
 - Desain situs web ini akan mencerminkan estetika alam dan mitologi Yunani, dengan penggunaan palet warna yang terinspirasi oleh lautan dan elemen alam, serta grafis dan gambar yang menampilkan desain motif alam dan unsur-unsur mitologi Yunani. Hal ini akan memberikan pengalaman yang mendalam dan berarti kepada pengunjung situs web yang ingin berhubungan dengan merek Poseidon Reprisal dan produk-produknya.<br><br>
-- Detail Design : <br><br>
+- Detail Design :<br><br>
+  Pemilihan warna hijau karena agar lebih nyaman dipandang , dan dapat memberikan pengalaman baik bagi pengguna<br><br>
+  Pemilihan Font karena dapat terpadukan dengan baik dan solid pada tema warna website <br><br>
+  Pemilihan logo petir karena berhubungan dengan konsep website <br><br>
  
 
 - Font     :  Lexend<br><br>
