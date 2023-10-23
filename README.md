@@ -11,13 +11,13 @@ Yesi Agustin           - 4522210023 <br><br>
 
 - Judul Website:
 Poseidon Reprisal - Kekuatan Alam Dalam Gaya <br>
-Referensi : https://shopee.co.id/shop/117301215
+[Klik Untuk Melihat Referensi Website](https://shopee.co.id/shop/117301215)
 
 - Deskripsi Konsep Web:
 Poseidon Reprisal adalah merek pakaian yang menggabungkan estetika alam dengan kekuatan mitologi Yunani. Kami menciptakan pakaian yang unik dan berkualitas tinggi dengan desain yang terinspirasi oleh elemen alam dan legenda dewa laut Poseidon. Konsep web kami menggambarkan visi kami untuk menjaga dan menghormati alam, sambil merayakan kekuatan alam dan budaya Yunani.
 
 
-#Inspirasi
+# Inspirasi
 
 
 # Struktur Website
