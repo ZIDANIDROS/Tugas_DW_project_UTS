@@ -1,11 +1,11 @@
+<img src="https://github.com/ZIDANIDROS/Tugas_DW_project_matkul__Kelompok6/blob/main/laman.PNG">
+
 # My Team
 Husein Zidan          	- 4522210012 <br><br>
 Zahra Jane Arnecia 	   - 4522210028 <br><br>
 Raihan Alfisa Saugi	   - 4522210037 <br><br>
 Lutfiah Rizka S       	- 4522210019 <br><br>
 Yesi Agustin           - 4522210023 <br><br>
-
-
 
 # Product Profile
 
