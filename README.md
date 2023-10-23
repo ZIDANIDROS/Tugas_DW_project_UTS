@@ -9,22 +9,23 @@ Yesi Agustin           - 4522210023 <br><br>
 
 # Product Profile
 
-- Judul Website:
-
-
+- Judul Website: Nodiessop.com
 
 - Deskripsi Konsep Web:
-Poseidon Reprisal adalah brand pakaian lokal Indonesia yang terinspirasi dari mitologi Yunani dan budaya pop. Brand ini didirikan pada tahun 2020 oleh dua orang anak muda bernama Aryo dan Dimas.
+ adalah brand pakaian lokal Indonesia yang terinspirasi dari mitologi Yunani dan budaya pop. Brand ini didirikan pada tahun 2020 oleh dua orang anak muda bernama Aryo dan Dimas.
+
+
+# Inspirasi Kita
+"Poseidon Reprisal" adalah sebuah merek yang menggambarkan keanggunan dalam harmoni yang sempurna. Dengan inspirasi dari mitologi Yunani kuno, merek ini menciptakan produk-produk yang memadukan keanggunan dewa laut, .
+
 
 Poseidon Reprisal dikenal dengan gayanya yang edgy dan maskulin. Produk-produknya sering menampilkan desain yang berani dan unik, serta motif-motif yang terinspirasi dari budaya pop, seperti anime, manga, dan video game.
 
 Target pasar utama Poseidon Reprisal adalah anak muda, pecinta budaya pop, dan orang yang menyukai gaya yang edgy. Brand ini ingin menciptakan produk yang stylish dan edgy, serta memiliki nilai-nilai yang kuat.
 
 
-# Inspirasi Kita
-"Nodiessop" adalah sebuah merek yang menggambarkan keanggunan dalam harmoni yang sempurna. Dengan inspirasi dari mitologi Yunani kuno, merek ini menciptakan produk-produk yang memadukan keanggunan dewa laut, Nodiessop.
-Dalam koleksi-koleksi eksklusifnya, Nodiessop   menawarkan pilihan pakaian yang mencerminkan estetika yang tangguh dan megah. Setiap produknya dibuat dengan perhatian teliti terhadap detail dan kualitas, menjadikan merek ini sebagai simbol elegansi yang tak terkalahkan. Produk-produknya juga didesain untuk memberikan kenyamanan dan kepercayaan diri kepada setiap individu yang mengenakannya.
-Nodiessop   adalah pilihan sempurna bagi individu yang menginginkan tampilan yang mempesona, penuh daya tarik, dan bermakna. Bergabunglah dalam perjalanan melalui samudra gaya dengan Nodiessop  , dan temukan keajaiban di setiap koleksinya.
+Dalam koleksi-koleksi eksklusifnya, Poseidon Reprisal menawarkan pilihan pakaian yang mencerminkan estetika yang tangguh dan megah. Setiap produknya dibuat dengan perhatian teliti terhadap detail dan kualitas, menjadikan merek ini sebagai simbol elegansi yang tak terkalahkan. Produk-produknya juga didesain untuk memberikan kenyamanan dan kepercayaan diri kepada setiap individu yang mengenakannya.
+Poseidon Reprisal adalah pilihan sempurna bagi individu yang menginginkan tampilan yang mempesona, penuh daya tarik, dan bermakna. Bergabunglah dalam perjalanan melalui samudra gaya dengan Poseidon Reprisal  , dan temukan keajaiban di setiap koleksinya.
 [project] (C) [date] [copyright owner]<br>
 [Klik Untuk Melihat Referensi Website](https://shopee.co.id/shop/117301215)
 
