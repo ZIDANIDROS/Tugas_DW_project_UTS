@@ -11,7 +11,7 @@ Poseidon Reprisal adalah merek pakaian yang menggabungkan estetika alam dengan k
 Husein Zidan          	- 4522210012<br>
 Zahra Jane Arnecia 	- 4522210028<br>
 Raihan Alfisa Saugi	- 4522210037<br>
-Lutfiah Rizka S       	- 4522210019<br>
+Lutfiah Rizka Santoso  	- 4522210019<br>
 Yesi Agustin           	- 4522210023
 
 # Definition
