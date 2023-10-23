@@ -70,7 +70,7 @@ index.html<br>
 - Detail Design :<br><br>
   Pemilihan warna hijau karena agar lebih nyaman dipandang , dan dapat memberikan pengalaman baik bagi pengguna<br><br>
   Pemilihan Font karena dapat terpadukan dengan baik dan solid pada tema warna website <br><br>
-  Pemilihan logo petir karena berhubungan dengan konsep website <br><br>
+  Pemilihan logo petir karena berhubungan dengan konsep website yang bertema alam <br><br>
  
 
 - Font     :  Lexend<br><br>
